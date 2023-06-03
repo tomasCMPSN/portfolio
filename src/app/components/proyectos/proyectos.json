@@ -18,5 +18,15 @@
     "demoLink": "https://angular-adidas.vercel.app/",
     "codeLink": "https://github.com/tomasCMPSN/angularAdidasLandPageCOPY",
     "img": "../../../assets/img/angular-adidas.vercel.app_.png"
+  },
+  {
+    "id": 3,
+    "title": "Paws & Claws",
+    "description": "Una veterinaria con diseño sobresaliente para el usario final resolviendo problemas reales utilizando una estructura que cumpla ese mismo fin.",
+    "framework1": "React",
+    "framework2": "CSS",
+    "demoLink": "https://mystifying-joliot-b961a2.netlify.app/",
+    "codeLink": "https://github.com/tomasCMPSN/ProyectoFinalGrupo2",
+    "img": "../../../assets/img/mystifying-joliot-b961a2.netlify.app_.png"
   }
 ]
