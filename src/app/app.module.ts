@@ -9,13 +9,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './layout/header/header.component';
 import { FooterComponent } from './layout/footer/footer.component';
 import { PresentationComponent } from './components/presentation/presentation.component';
+import { SobreMiComponent } from './components/sobre-mi/sobre-mi.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    PresentationComponent
+    PresentationComponent,
+    SobreMiComponent
   ],
   imports: [
     BrowserModule,
