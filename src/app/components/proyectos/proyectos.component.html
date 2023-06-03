@@ -1,0 +1,61 @@
+<div class="mt-16 bg-gray-50">
+  <div class="mx-4 xl:mx-32 py-20">
+    <div class="text-center md:text-left">
+      <h2 class="uppercase text-[#75AADB] text-xl font-bold">Portfolio</h2>
+      <h3 class="text-2xl font-bold mt-6">
+        Cada proyecto es una pieza única de desarrollo
+      </h3>
+    </div>
+
+    <div
+      *ngFor="let proyecto of proyectos"
+      class="grid grid-cols-1 md:grid-cols-2 gap-6 my-12 bg-white rounded-lg shadow-xl"
+    >
+      <div>
+        <div class="overflow-hidden h-[400px]">
+          <a href="{{ proyecto.demoLink }}" target="_blank">
+            <img
+              id="myTranslate"
+              class="w-full rounded-lg"
+              src="{{ proyecto.img }}"
+              alt="{{ proyecto.title }}"
+            />
+          </a>
+        </div>
+      </div>
+      <div class="p-6">
+        <div class="text-center">
+          <h4 class="text-xl font-bold">{{ proyecto.title }}</h4>
+          <p class="text-lg py-4">{{ proyecto.description }}</p>
+        </div>
+        <div class="flex justify-center gap-8 font-semibold text-lg">
+          <p class="p-2 outline-double outline-3 outline-offset-2">
+            {{ proyecto.framework1 }}
+          </p>
+          <p class="p-2 outline-double outline-3 outline-offset-2">
+            {{ proyecto.framework2 }}
+          </p>
+        </div>
+        <div class="flex justify-center gap-12 py-12 font-semibold text-lg">
+          <a
+            class="hover:text-[#75AADB]"
+            href="{{ proyecto.demoLink }}"
+            target="_blank"
+            >Demo
+            <ng-icon name="matLink" class="align-[-4px] text-xl"></ng-icon>
+          </a>
+          <a
+            class="hover:text-[#75AADB]"
+            href="{{ proyecto.codeLink }}"
+            target="_blank"
+            >Código
+            <ng-icon
+              name="bootstrapGithub"
+              class="align-[-4px] text-xl"
+            ></ng-icon>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

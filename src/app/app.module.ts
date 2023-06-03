@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
 import { NgIconsModule } from '@ng-icons/core';
-import { matLocationOn } from '@ng-icons/material-icons/baseline'
+import { matLocationOn, matLink } from '@ng-icons/material-icons/baseline'
 import { bootstrapLinkedin, bootstrapGithub } from '@ng-icons/bootstrap-icons'
 
 import { AppComponent } from './app.component';
@@ -10,6 +10,7 @@ import { HeaderComponent } from './layout/header/header.component';
 import { FooterComponent } from './layout/footer/footer.component';
 import { PresentationComponent } from './components/presentation/presentation.component';
 import { SobreMiComponent } from './components/sobre-mi/sobre-mi.component';
+import { ProyectosComponent } from './components/proyectos/proyectos.component';
 
 @NgModule({
   declarations: [
@@ -17,11 +18,12 @@ import { SobreMiComponent } from './components/sobre-mi/sobre-mi.component';
     HeaderComponent,
     FooterComponent,
     PresentationComponent,
-    SobreMiComponent
+    SobreMiComponent,
+    ProyectosComponent
   ],
   imports: [
     BrowserModule,
-    NgIconsModule.withIcons({ matLocationOn, bootstrapLinkedin, bootstrapGithub })
+    NgIconsModule.withIcons({ matLocationOn, bootstrapLinkedin, bootstrapGithub, matLink })
   ],
   providers: [],
   bootstrap: [AppComponent]

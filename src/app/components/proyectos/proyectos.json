@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "AlquilAR",
+    "description": "AlquilAR es una plataforma online que permite a los usuarios alquilar coches para uso personal o profesional. El sitio web ofrece una interfaz para buscar, comparar y reservar coches.",
+    "framework1": "Angular",
+    "framework2": "Tailwind",
+    "demoLink": "https://alquil-ar.vercel.app/",
+    "codeLink": "https://github.com/tomasCMPSN/alquilAR",
+    "img": "../../../assets/img/alquil-ar.vercel.app_.png"
+  },
+  {
+    "id": 2,
+    "title": "Adidas Landing Page",
+    "description": "Con un enfoque en la simplicidad y el diseño limpio, esta tienda prioriza la experiencia del usuario, facilitando a los clientes encontrar y comprar los productos que necesitan.",
+    "framework1": "Angular",
+    "framework2": "Tailwind",
+    "demoLink": "https://angular-adidas.vercel.app/",
+    "codeLink": "https://github.com/tomasCMPSN/angularAdidasLandPageCOPY",
+    "img": "../../../assets/img/angular-adidas.vercel.app_.png"
+  }
+]
