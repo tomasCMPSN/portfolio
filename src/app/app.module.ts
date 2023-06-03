@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { NgxPageScrollCoreModule } from 'ngx-page-scroll-core';
 
 import { NgIconsModule } from '@ng-icons/core';
 import { matLocationOn, matLink, matEmail } from '@ng-icons/material-icons/baseline'
@@ -25,6 +26,7 @@ import { ContactoComponent } from './components/contacto/contacto.component';
   ],
   imports: [
     BrowserModule,
+    NgxPageScrollCoreModule,
     NgIconsModule.withIcons({ matLocationOn, bootstrapLinkedin, bootstrapGithub, matLink, matEmail })
   ],
   providers: [],

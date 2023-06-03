@@ -22,6 +22,7 @@
     "@ng-icons/core": "^25.0.1",
     "@ng-icons/material-icons": "^25.0.1",
     "flowbite": "^1.6.5",
+    "ngx-page-scroll-core": "^11.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
