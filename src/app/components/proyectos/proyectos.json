@@ -28,5 +28,15 @@
     "demoLink": "https://mystifying-joliot-b961a2.netlify.app/",
     "codeLink": "https://github.com/tomasCMPSN/ProyectoFinalGrupo2",
     "img": "../../../assets/img/mystifying-joliot-b961a2.netlify.app_.png"
+  },
+  {
+    "id": 4,
+    "title": "CryptAR",
+    "description": "Un sitio web ficticio relacionado con crypto, excelente diseño para el usuario y gran rendimiento brindandole la información necesaria de la manera más eficaz posible.",
+    "framework1": "Angular",
+    "framework2": "Tailwind",
+    "demoLink": "https://crypt-ar.vercel.app/",
+    "codeLink": "https://github.com/tomasCMPSN/cryptAR",
+    "img": "../../../assets/img/localhost_4200_.png"
   }
 ]
