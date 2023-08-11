@@ -21,13 +21,13 @@
   },
   {
     "id": 3,
-    "title": "Paws & Claws",
-    "description": "Una veterinaria con diseño sobresaliente para el usario final resolviendo problemas reales utilizando una estructura que cumpla ese mismo fin.",
-    "framework1": "React",
-    "framework2": "CSS",
-    "demoLink": "https://mystifying-joliot-b961a2.netlify.app/",
-    "codeLink": "https://github.com/tomasCMPSN/ProyectoFinalGrupo2",
-    "img": "../../../assets/img/mystifying-joliot-b961a2.netlify.app_.png"
+    "title": "Vue Ecommerce",
+    "description": "Un ECommerce con diseño sobresaliente para el usario final resolviendo problemas reales utilizando una estructura que cumpla ese mismo fin.",
+    "framework1": "Vue",
+    "framework2": "Pinia",
+    "demoLink": "https://vue-ecommerce-liard.vercel.app/",
+    "codeLink": "https://github.com/tomasCMPSN/vueEcommerce",
+    "img": "../../../assets/img/localhost_5173_.png"
   },
   {
     "id": 4,
