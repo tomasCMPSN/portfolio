@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "AlquilAR",
-    "description": "AlquilAR es una plataforma online que permite a los usuarios alquilar coches para uso personal o profesional. El sitio web ofrece una interfaz para buscar, comparar y reservar coches.",
+    "description": "AlquilAR is an online platform that allows users to rent cars for personal or professional use. The website offers an interface to search, compare and book cars.",
     "framework1": "Angular",
     "framework2": "Tailwind",
     "demoLink": "https://alquil-ar.vercel.app/",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "title": "Adidas Landing Page",
-    "description": "Con un enfoque en la simplicidad y el diseño limpio, esta tienda prioriza la experiencia del usuario, facilitando a los clientes encontrar y comprar los productos que necesitan.",
+    "description": "With a focus on simplicity and clean design, this store prioritizes user experience, making it easy for customers to find and buy the products they need.",
     "framework1": "Angular",
     "framework2": "Tailwind",
     "demoLink": "https://angular-adidas.vercel.app/",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "title": "Vue Ecommerce",
-    "description": "Un ECommerce con diseño sobresaliente para el usario final resolviendo problemas reales utilizando una estructura que cumpla ese mismo fin.",
+    "description": "An ECommerce with outstanding design for the end user by solving real problems using a structure that meets the same purpose.",
     "framework1": "Vue",
     "framework2": "Pinia",
     "demoLink": "https://vue-ecommerce-liard.vercel.app/",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "title": "CryptAR",
-    "description": "Un sitio web ficticio relacionado con crypto, excelente diseño para el usuario y gran rendimiento brindandole la información necesaria de la manera más eficaz posible.",
+    "description": "A fictitious website related to crypto, excellent design for the user and great performance providing the necessary information in the most efficient way possible.",
     "framework1": "Angular",
     "framework2": "Tailwind",
     "demoLink": "https://crypt-ar.vercel.app/",
